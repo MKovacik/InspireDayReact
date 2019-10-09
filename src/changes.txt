@@ -1,0 +1,9 @@
+  //Speaker changes
+  // <input onChange={this.changeHeader.bind(this)} />
+
+
+  // changeHeader(e)
+  // {
+  //   let title = e.target.value;
+  //   this.setState({header: title})
+  // }

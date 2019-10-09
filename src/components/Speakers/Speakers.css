@@ -1,0 +1,20 @@
+.page{
+    padding-top:30px; 
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.header{
+    margin-top: 40px;
+    color: #09d3ac;
+}
+
+table{
+    margin-top: 20px;
+    width: 100%;
+}
+
+.p-growl.p-growl-topright {
+    top: 60px!important;
+    right: 20px;
+}
